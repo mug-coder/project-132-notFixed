@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    padding: 10px;
+}
+
+#bookImg{
+    text-align:center;
+    padding: 3%;
+}
